@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\Planterne.csproj": {}
+    "C:\\Programmering H1\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\Planterne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\Planterne.csproj": {
+    "C:\\Programmering H1\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\Planterne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\Planterne.csproj",
+        "projectUniqueName": "C:\\Programmering H1\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\Planterne.csproj",
         "projectName": "Planterne",
-        "projectPath": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\Planterne.csproj",
+        "projectPath": "C:\\Programmering H1\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\Planterne.csproj",
         "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruger\\OneDrive\\Dokumenter\\Skole - EUX\\H1\\Programmering\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\obj\\",
+        "outputPath": "C:\\Programmering H1\\SkoleOpgaver\\c#\\OOP\\Planterne\\Planterne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",

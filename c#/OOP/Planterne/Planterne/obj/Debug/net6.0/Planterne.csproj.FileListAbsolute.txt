@@ -13,3 +13,18 @@ C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#
 C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\ref\Planterne.dll
 C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.pdb
 C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.genruntimeconfig.cache
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.exe
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.deps.json
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.runtimeconfig.json
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.dll
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\ref\Planterne.dll
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.pdb
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.csproj.AssemblyReference.cache
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.AssemblyInfoInputs.cache
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.AssemblyInfo.cs
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.csproj.CoreCompileInputs.cache
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.dll
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\ref\Planterne.dll
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.pdb
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.genruntimeconfig.cache

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Planterne
 {
-    public class Planets
+    //1
+    public class Planet
     {
         private string _name;
         private double _mass;
@@ -22,7 +23,22 @@ namespace Planterne
         private byte _numberOfMoons;
         private bool _ringSystem;
 
-        public Planets(string name, double mass, double diameter, double density, double gravity, double rotationPeriod, double lenghtOfDays, double distanceFromSun, double orbitalPeriod, double orbitalVelocity, int meanTemperture, byte numberOfMoons, bool ringSystem)
+        public string Name
+        {
+            get { return _name; }
+        }
+
+        public int MeanTemp
+        {
+            get { return _meanTemperture; }
+        }
+
+        public double Diameter
+        {
+            get { return _diameter; }
+        }
+
+        public Planet(string name, double mass, double diameter, double density, double gravity, double rotationPeriod, double lenghtOfDays, double distanceFromSun, double orbitalPeriod, double orbitalVelocity, int meanTemperture, byte numberOfMoons, bool ringSystem)
         {
             _name = name;
             _mass = mass;
