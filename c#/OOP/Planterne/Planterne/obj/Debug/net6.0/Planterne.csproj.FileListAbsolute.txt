@@ -1,0 +1,15 @@
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.exe
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.deps.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\ref\Planterne.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\bin\Debug\net6.0\Planterne.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\ref\Planterne.dll
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\OOP\Planterne\Planterne\obj\Debug\net6.0\Planterne.genruntimeconfig.cache
