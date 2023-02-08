@@ -30,7 +30,6 @@ namespace Planterne
             Console.WriteLine("--------------------");
 
             //5\\
-
             //foreach (Planet planet in planets)
             //{
             //    Console.WriteLine(planet.ToString());
@@ -64,28 +63,29 @@ namespace Planterne
             Console.WriteLine(planets.Count); //Write the count of planets
 
             //9\\
+            List<Planet> planets2 = new List<Planet>();
 
             foreach (Planet planet in planets)
             {
                 if (planet.MeanTemp < 0) //If planet.MeanTemp is under 0
                 {
-                    Console.WriteLine(planet.ToString());
+                    planets2.Add(planet); //Add plant to planets2
                 }
             }
 
-            //10\\
 
-            List<Planet> planets2 = new List<Planet>();
+            //10\\
+            List<Planet> planets3 = new List<Planet>();
 
             foreach (Planet planet in planets)
             {
                 if (planet.Diameter > 10000 && planet.Diameter < 50000) //If planet.Diameter is over 10000 & under 50000
                 {
-                    planets2.Add(planet); //Add plant to planets2
+                    planets3.Add(planet); //Add plant to planets3
                 }
             }
 
-            foreach (Planet planet in planets2) //Write all planets in list planets2
+            foreach (Planet planet in planets3) //Write all planets in list planets2
             {
                 Console.WriteLine(planet.ToString());
             }
