@@ -49,14 +49,9 @@
                             Console.WriteLine("1. person i køen, er blevet fjernet!\n");
                             break;
                         case 3:
-                            byte count = 0;
-                            foreach (Person persons in queue)
+                            if (queue.Count > 0)
                             {
-                                count++;
-                            }
-                            if (count > 0)
-                            {
-                                Console.WriteLine("Der er: " + count + " personer i køen.\n");
+                                Console.WriteLine("Der er: " + queue.Count + " personer i køen.\n");
                             }
                             else
                             {
