@@ -1,0 +1,15 @@
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\bin\Debug\net6.0\Køen.exe
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\bin\Debug\net6.0\Køen.deps.json
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\bin\Debug\net6.0\Køen.runtimeconfig.json
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\bin\Debug\net6.0\Køen.dll
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\bin\Debug\net6.0\ref\Køen.dll
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\bin\Debug\net6.0\Køen.pdb
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\obj\Debug\net6.0\Køen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\obj\Debug\net6.0\Køen.AssemblyInfoInputs.cache
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\obj\Debug\net6.0\Køen.AssemblyInfo.cs
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\obj\Debug\net6.0\Køen.csproj.CoreCompileInputs.cache
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\obj\Debug\net6.0\Køen.dll
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\obj\Debug\net6.0\ref\Køen.dll
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\obj\Debug\net6.0\Køen.pdb
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\obj\Debug\net6.0\Køen.genruntimeconfig.cache
+C:\Programmering H1\SkoleOpgaver\c#\OOP\Køen\Køen\obj\Debug\net6.0\Køen.csproj.AssemblyReference.cache
