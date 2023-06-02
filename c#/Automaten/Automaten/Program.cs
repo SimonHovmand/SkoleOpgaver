@@ -1,38 +1,41 @@
-﻿using Automaten;
-using System.Reflection;
-
-public class Program
+﻿namespace Automaten
 {
-    static void Main(string[] args)
+    public class Program
     {
-        IController ctrl = new Controller(new MoneyService(), new GUIService(), new ItemService());
+        static void Main(string[] args)
+        {
+            IController ctrl = new Controller(new GUIService(), new ItemService());
 
-        int a = ctrl.InsertMoney();
+            while (true)
+            {
+                ctrl.Start(); //Kalder Start
 
-        ctrl.ShowCurrentAmount(a);
+                int cardnumber = ctrl.InsertCard(); //Kalder InsertMoney
 
-        ctrl.ShowItems();
+                ctrl.ShowItems(); //Kalder ShowItems
 
-        int choise = ctrl.SelectItem();
+                int choise = ctrl.SelectItem(); //Kalder SelectItem
 
-        ctrl.ShowSelectedItem(choise);
+                ctrl.ShowSelectedItem(choise); //Kalder ShowSelectedItem
 
-        string remove = ctrl.BuyItem();
+                string remove = ctrl.BuyItem(); //Kalder BuyItem
 
-        ctrl.RemoveItem(remove, choise);
+                ctrl.RemoveItem(remove, choise); //Kalder RemoveItem
 
-        ctrl.ShowItems();
-
-
+                ctrl.Confirmation(choise, cardnumber); //Kalder Confirmation
+            }
+        }
     }
 }
 
 
 
 
-//Rigebillede
 
-//Meteoder(GUI DAL BLL)(Med angivelser[Public, private osv]) -Med ordentlige navne
+
+
+
+
 
 
 //                      ==DAL==

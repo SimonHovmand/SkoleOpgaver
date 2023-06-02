@@ -1,32 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Automaten
+﻿namespace Automaten
 {
     internal class Controller : IController
     {
         private readonly IGUIService _guiservice;
-        private readonly IMoneyService _moneyService;
         private readonly ItemService _itemService;
 
-        public Controller(IMoneyService money, IGUIService gui, ItemService item)
+        public Controller(IGUIService gui, ItemService item)
         {
             _guiservice = gui;
-            _moneyService = money;
             _itemService = item;
         }
 
-        public void ShowCurrentAmount(int amount)
+        public void Start() 
         {
-            this._guiservice.ShowCurrentAmount(this._moneyService.CurrentAmount(amount));
+            this._guiservice.Start();
         }
 
-        public int InsertMoney()
+        public int InsertCard()
         {
-            return this._guiservice.InsertMoney();
+            return this._guiservice.InsertCard();
         }
 
         public void ShowItems()
@@ -49,7 +41,7 @@ namespace Automaten
             return this._guiservice.BuyItem();
         }
 
-        public void RemoveItem(string remove, int choise)
+        public void RemoveItem(string remove, int choise) 
         {
             switch (remove)
             {
@@ -57,12 +49,21 @@ namespace Automaten
                     _itemService.RemoveAmount(choise);
                     break;
                 case "N":
-                    Console.WriteLine("NO");
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Du hare fortrudt dit køb");
+                    Console.WriteLine("Dine kreditkort oplysninger er blevet slettet");
                     break;
                 default:
-                    Console.WriteLine("Fejl");
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Der skete en fejl");
+                    Console.WriteLine("Dine kreditkort oplysninger er blevet slettet");
                     break;
             }
+        }
+
+        public void Confirmation(int choise, int money)
+        {
+            this._guiservice.Confirmation(choise, money, _itemService.items);
         }
     }
 }

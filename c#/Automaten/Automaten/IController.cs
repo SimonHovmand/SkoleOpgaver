@@ -1,19 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Automaten
+﻿namespace Automaten
 {
     public interface IController
     {
-        int InsertMoney();
-        void ShowCurrentAmount(int amount);
-        void ShowItems();
-        int SelectItem();
-        void ShowSelectedItem (int choise);
-        string BuyItem();
-        void RemoveItem(string remove, int choise);
+        void Start(); //Sets Start to void
+        int InsertCard(); //Sets InsertCard to int
+        void ShowItems(); //Sets ShowItems to void
+        int SelectItem(); //Sets SelcetItem to int
+        void ShowSelectedItem (int choise); //Sets ShowSelectedItem to void, with the refrence to int choise
+        string BuyItem(); //Sets BuyItem to string
+        void RemoveItem(string remove, int choise); //Sets RemoveItem to void, with the refrence to string remove and int choise
+        void Confirmation(int choise, int money); //Sets Confirmation to void, with the refrence to string choise and int money
     }
 }
