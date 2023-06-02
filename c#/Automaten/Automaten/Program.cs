@@ -1,80 +1,55 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Automaten;
+using System.Reflection;
 
-namespace Automaten
+public class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
+        IController ctrl = new Controller(new MoneyService(), new GUIService(), new ItemService());
 
-        static void Main(string[] args)
-        {
-            List<Item> items = new List<Item>();
+        int a = ctrl.InsertMoney();
 
-            items.Add(new Item("Coca", 23, "D1", 3));
-            items.Add(new Item("Fanta", 21, "D2", 4));
-            items.Add(new Item("Pepsi", 23, "D3", 2));
-            items.Add(new Item("MarsBar", 24, "D4", 15));
-            items.Add(new Item("Twix", 57, "D5", 18));
+        ctrl.ShowCurrentAmount(a);
 
-            bool validItem = false;
+        ctrl.ShowItems();
 
-            while (true)
-            {
-                Console.WriteLine("Velkommen til Simon's Automat");
-                Console.WriteLine("Ønsker du at købe noget: Y/N");
-                string choice = Console.ReadLine().ToUpper();
+        int choise = ctrl.SelectItem();
 
-                switch (choice)
-                {
-                    case "Y":
-                        Console.WriteLine("Antal - Varer - Pris - Plads");
-                        foreach (Item item in items)
-                        {
-                            Console.WriteLine(item.Number + " - " + item.Name + " - " + item.Price + " DKK - " + item.Place);
-                        }
-                        Console.WriteLine("Indtast pladsen på den varer du ønsker at købe.");
-                        string buy = Console.ReadLine().ToUpper();
+        ctrl.ShowSelectedItem(choise);
 
-                        foreach (Item item in items)
-                        {
-                            if (buy == item.Place)
-                            {
-                                validItem = true;
-                                break;
-                            }
-                            else
-                            {
-                                validItem = false;
-                            }
-                        }
+        string remove = ctrl.BuyItem();
 
-                        if (validItem == true)
-                        {
-                            
-                        }
-                        else
-                        {
-                            Console.WriteLine("NEJ");
-                        }
+        ctrl.RemoveItem(remove, choise);
 
-                        break;
-                    case "N":
-                        Calculate(items);
-                        break;
-                    case "ADMIN":
-                        Console.WriteLine("ADMIN");
-                        break;
-                }
-            }
-        }
+        ctrl.ShowItems();
 
-        static bool Calculate(List<Item> myListOfItems)
-        {
-            myListOfItems - 1;
-            return false;
-        }
+
     }
 }
+
+
+
+
+//Rigebillede
+
+//Meteoder(GUI DAL BLL)(Med angivelser[Public, private osv]) -Med ordentlige navne
+
+
+//                      ==DAL==
+//Varer
+//Ændring af varer          AdjustItem          Private
+//RemoveItem                RemoveItem          Private
+//EarnedMoney               AddEarnedMoney      Private
+
+//                      ==GUI==
+//Vis penge                 ShowAmount          Public
+//Vis tilgængelige varer 	ShowItems	        Public
+//Vis annulering            ShowCancelMessage   Public
+//Vis valgte varer          ShowSelectedItem    Public
+//Giv købte ting            ReleaseItems        Public
+
+//                      ==BLL==
+//Penge i maskinen 	        InsertMoney	        Private
+
+//Valg af varer	            AddToBasket	        Private
+//Valgte varer	            SelectedItem	    Private

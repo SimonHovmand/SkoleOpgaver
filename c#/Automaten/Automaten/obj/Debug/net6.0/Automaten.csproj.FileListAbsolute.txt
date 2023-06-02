@@ -18,3 +18,18 @@ C:\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\refint\Automaten.dll
 C:\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.pdb
 C:\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.genruntimeconfig.cache
 C:\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\ref\Automaten.dll
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.AssemblyInfoInputs.cache
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.AssemblyInfo.cs
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.csproj.CoreCompileInputs.cache
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.dll
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\ref\Automaten.dll
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.pdb
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\Automaten.exe
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\Automaten.deps.json
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\Automaten.runtimeconfig.json
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\Automaten.dll
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\Automaten.pdb
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.genruntimeconfig.cache
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.csproj.AssemblyReference.cache
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\refint\Automaten.dll

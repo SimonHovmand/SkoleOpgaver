@@ -8,40 +8,32 @@ namespace Automaten
 {
     public class Item
     {
-        private string _name;
-        private int _price;
-        private string _place;
-        private byte _number;
 
-        public string Name
-        {
-            get { return _name; }
-            set { _name = value; }
-        }
-        public int Price
-        {
-            get { return _price; }
-            set { _price = value; }
-        }
+        public int id;
+        public int price;
+        public string name;
+        public int amount { get; set; }
+        public string flavor;
+        public string size;
 
-        public string Place
+        public Item(int id, int price, string name, int amount, string flavor, string size)
         {
-            get { return _place; }
-            set { _place = value; }
+            this.id = id;
+            this.price = price;
+            this.name = name;
+            this.amount = amount;
+            this.flavor = flavor;
+            this.size = size;
         }
+    }
 
-        public byte Number
-        {
-            get { return _number; }
-            set { _number = value; }
-        }
+    public class Chip : Item
+    {
+        public Chip(int id, int price, string name, int amount, string flavor, string size):base(id,price,name,amount,flavor,size) { }
+    }
 
-        public Item(string name, int price, string place, byte number)
-        {
-            _name = name;
-            _price = price;
-            _place = place;
-            _number = number;
-        }
+    public class Drink : Item
+    {
+        public Drink(int id, int price, string name, int amount, string flavor, string size) : base(id, price, name, amount, flavor, size) { }
     }
 }

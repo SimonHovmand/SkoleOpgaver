@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Automaten",
+    "\\Automaten\\Automaten"
   ],
+  "SelectedNode": "\\OOP",
   "PreviewInSolutionExplorer": false
 }

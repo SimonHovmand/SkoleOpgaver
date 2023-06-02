@@ -12,3 +12,17 @@ C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#
 C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\ref\Held og Lotto.dll
 C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\Held og Lotto.pdb
 C:\Users\Bruger\OneDrive\Dokumenter\Skole - EUX\H1\Programmering\SkoleOpgaver\c#\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\Held og Lotto.genruntimeconfig.cache
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\bin\Debug\net6.0\Held og Lotto.exe
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\bin\Debug\net6.0\Held og Lotto.deps.json
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\bin\Debug\net6.0\Held og Lotto.runtimeconfig.json
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\bin\Debug\net6.0\Held og Lotto.dll
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\bin\Debug\net6.0\ref\Held og Lotto.dll
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\bin\Debug\net6.0\Held og Lotto.pdb
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\Held og Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\Held og Lotto.AssemblyInfoInputs.cache
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\Held og Lotto.AssemblyInfo.cs
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\Held og Lotto.csproj.CoreCompileInputs.cache
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\Held og Lotto.dll
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\ref\Held og Lotto.dll
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\Held og Lotto.pdb
+C:\Programmering H1\SkoleOpgaver\c#\Grundlæggende Programmering\Løkker\Held og Lotto\Held og Lotto\obj\Debug\net6.0\Held og Lotto.genruntimeconfig.cache
