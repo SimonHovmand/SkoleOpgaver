@@ -33,3 +33,6 @@ C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\Automat
 C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.genruntimeconfig.cache
 C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.csproj.AssemblyReference.cache
 C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\refint\Automaten.dll
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\ADO.Net.Client.Annotations.dll
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\ADO.Net.Client.Core.dll
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.csproj.CopyComplete
