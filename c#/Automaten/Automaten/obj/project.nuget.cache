@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qJGg0Oc6xZr4F9f85o13JvuWrEtmon5Yh6I1TANNWq3VQdvyzW2INjwWjms8rBUSHpH/7N3kP6SyyWcvH8hMHw==",
+  "dgSpecHash": "mtAFcVGINH2iZ1FUFiqI5QMiTg/bzYu+WhpHnMWQt5vxnOTFDXRXlEUzDYfjOfgqGDTqKihTYxhPx0Cr5wRqjQ==",
   "success": true,
-  "projectFilePath": "C:\\SkoleOpgaver\\c#\\Automaten\\Automaten\\Automaten.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Programmering H1\\SkoleOpgaver\\c#\\Automaten\\Automaten\\Automaten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\ado.net.client.annotations\\1.2.0\\ado.net.client.annotations.1.2.0.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\ado.net.client.core\\1.4.5\\ado.net.client.core.1.4.5.nupkg.sha512"
+  ],
   "logs": []
 }
