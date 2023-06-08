@@ -36,3 +36,5 @@ C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\refint\
 C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\ADO.Net.Client.Annotations.dll
 C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\ADO.Net.Client.Core.dll
 C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\obj\Debug\net6.0\Automaten.csproj.CopyComplete
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programmering H1\SkoleOpgaver\c#\Automaten\Automaten\bin\Debug\net6.0\Npgsql.dll

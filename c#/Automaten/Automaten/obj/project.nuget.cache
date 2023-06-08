@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "mtAFcVGINH2iZ1FUFiqI5QMiTg/bzYu+WhpHnMWQt5vxnOTFDXRXlEUzDYfjOfgqGDTqKihTYxhPx0Cr5wRqjQ==",
+  "dgSpecHash": "KU8jAzJPeU46Dg7HF2oktV27G1Fbk8eNoL+8wOVSkATif+jK30gtOSYf3CAv1Ov9o+jcF/Ajgie9xY+KIsJLNw==",
   "success": true,
   "projectFilePath": "C:\\Programmering H1\\SkoleOpgaver\\c#\\Automaten\\Automaten\\Automaten.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\ado.net.client.annotations\\1.2.0\\ado.net.client.annotations.1.2.0.nupkg.sha512",
-    "C:\\Users\\Bruger\\.nuget\\packages\\ado.net.client.core\\1.4.5\\ado.net.client.core.1.4.5.nupkg.sha512"
+    "C:\\Users\\Bruger\\.nuget\\packages\\ado.net.client.core\\1.4.5\\ado.net.client.core.1.4.5.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Bruger\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
